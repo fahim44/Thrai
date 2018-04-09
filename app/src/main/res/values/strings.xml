@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">THRAI</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_text_1">Order by Alphabet</string>
+    <string name="tab_text_2">Order by Property Tag</string>
+    <string name="medical_textbook">Ancient medical textbook</string>
+
+    <string name="title_activity_book_detail_tabbed">THRAI</string>
+
+    <string name="book_detail_tab_title_1">Original Picture</string>
+    <string name="book_detail_tab_title_2">Copy Picture</string>
+    <string name="book_detail_tab_title_3">Translated Article</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
